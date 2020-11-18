@@ -5,10 +5,14 @@
   "repository": "https://github.com/BigBugaboo/ast_demo.git",
   "author": "hejunze <hejunze@guanmai.cn>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./main.js localhost 8080"
+  },
   "dependencies": {
     "escodegen": "^2.0.0",
     "esprima": "^4.0.1",
     "estraverse": "^5.2.0",
+    "nodemon": "^2.0.6",
     "recast": "^0.20.4"
   }
 }
