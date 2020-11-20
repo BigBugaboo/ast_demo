@@ -5,7 +5,7 @@
 node
 
 # 工具
-yarn
+- yarn
 - esprima: ECMAScript parsing infrastructure for multipurpose analysis
 - estraverse: ECMAScript JS AST traversal functions
 - escodegen: ECMAScript code generator
